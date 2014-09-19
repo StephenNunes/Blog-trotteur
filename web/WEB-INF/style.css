@@ -1,0 +1,98 @@
+/* 
+    Created on : 10 mars 2014, 10:19:08
+    Author     : stephen
+*/
+
+@charset "UTF-8";
+
+body
+{
+    font-size: 100%;
+    font-family: Segoe UI;
+}
+
+nav 
+{
+    width: 100%;
+    text-align: center;
+}
+
+
+nav table
+{
+    width: 100%;
+}
+
+.lienNavigation
+{
+    font-size: 120%;
+    color: #000000;
+    text-decoration: none;
+}
+
+article form
+{
+    text-align: center;
+}
+
+article form table
+{
+    width: 50%;
+    position: relative;
+    left: 25%;
+    
+}
+
+article form table tr td
+{
+    text-align: center;
+    padding: 5px;
+}
+
+article form table tr td input
+{
+    width:200px; 
+    height:20px;  
+}
+
+article form table tr td textarea
+{
+    width:625px; 
+    height:200px;  
+}
+
+.titre
+{
+    text-align: center;
+    font-size: 250%;
+}
+
+.connecte
+{
+    text-align: right;
+    font-size: 90%;
+}
+
+.nomAdministrateur
+{
+    font-size: 110%;
+    font-weight: bold;
+}
+
+.information
+{
+    font-size: 120%;
+    text-align: center;
+}
+
+.indication
+{
+    font-size: 90%;
+    text-align: center;
+    font-style: italic;
+}
+
+.contour
+{
+    border: 1px solid black;
+}

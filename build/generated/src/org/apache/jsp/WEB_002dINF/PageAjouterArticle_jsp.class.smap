@@ -1,0 +1,14 @@
+SMAP
+PageAjouterArticle_jsp.java
+JSP
+*S JSP
+*F
++ 0 PageAjouterArticle.jsp
+WEB-INF/PageAjouterArticle.jsp
++ 1 style.css
+WEB-INF/./style.css
+*L
+5,9:49
+1#1,35:58
+13#0,31:92
+*E
